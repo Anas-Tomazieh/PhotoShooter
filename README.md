@@ -1,1 +1,2 @@
 # PhotoShooter
+The Main Idea 
